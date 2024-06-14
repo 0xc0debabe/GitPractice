@@ -8,4 +8,8 @@ public class Main {
         System.out.println("충돌예정2");
         System.out.println("충돌예정3");
     }
+
+    static void chagne() {
+        
+    }
 }
